@@ -1,0 +1,21 @@
+{
+  "name": "Мафия 1930: Три дела",
+  "short_name": "Мафия 1930",
+  "description": "Криминальная сага: перестрелки, машины, бизнес-империя",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#d8b958",
+  "lang": "ru",
+  "categories": ["games", "action"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
